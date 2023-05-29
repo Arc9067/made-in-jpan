@@ -6,6 +6,7 @@ import Token from "./Components/Token";
 import Links from "./Components/Links";
 import Faq from "./Components/Faq";
 import Swap from "./Components/Swap";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Links />
       <Faq />
       <Swap />
+      <Footer />
     </div>
   );
 };
