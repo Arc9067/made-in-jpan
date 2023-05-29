@@ -16,6 +16,7 @@ export default {
       colors: {
         primary: "#BA032F",
         secondary: "#FBEECA",
+        third: "#FFE083",
       },
       fontFamily: {
         Asiana: ["Asiana", "sans-serif"],

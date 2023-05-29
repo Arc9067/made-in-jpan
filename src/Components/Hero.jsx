@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className=" w-full pt-[150px] text-white">
       <div className="container flex-col gap-6 font-Asiana flex justify-center items-center">
-        <h1 className="text-5xl  md:text-6xl font-Asiana capitalize font-bold">
+        <h1 className="text-5xl text-center  md:text-6xl font-Asiana capitalize font-bold">
           made in japan
         </h1>
         <p className="text-center max-w-[500px] mx-auto text-2xl">

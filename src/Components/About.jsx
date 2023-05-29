@@ -10,7 +10,7 @@ const About = () => {
         </div>
 
         <div className="flex flex-col gap-4 mt-10">
-          <h1 className="text-4xl text-white  capitalize bg-primary w-max">
+          <h1 className="text-4xl break-all text-white  capitalize bg-primary w-max">
             about made in japan
           </h1>
           <p>
