@@ -3,7 +3,7 @@ import Logo from "../assets/logo2.png";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen w-full py-[150px] text-white">
+    <section className=" w-full py-[150px] text-white">
       <div className="container flex-col gap-6 font-Asiana flex justify-center items-center">
         <h1 className="text-5xl  md:text-6xl font-Asiana capitalize font-bold">
           made in japan
@@ -17,7 +17,11 @@ const Hero = () => {
         >
           buy made in japan
         </a>
-        <img src={Logo} alt="logo" className="md:w-[15rem] object-cover" />
+        <img
+          src={Logo}
+          alt="logo"
+          className="md:w-[15rem] object-cover animate-bounce"
+        />
       </div>
     </section>
   );
