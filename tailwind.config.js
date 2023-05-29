@@ -18,7 +18,8 @@ export default {
         secondary: "#FBEECA",
       },
       fontFamily: {
-        Asiana: ["Asiana","sans-serif"],
+        Asiana: ["Asiana", "sans-serif"],
+        Karasu: ["Karasu", "sans-serif"],
       },
     },
   },

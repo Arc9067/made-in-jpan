@@ -17,60 +17,81 @@ const Faq = () => {
           <AccordionItem className=" bg-primary rounded-md ring ring-primary py-6 px-4">
             <AccordionItemHeading>
               <AccordionItemButton className="flex justify-between items-center">
-                <h2 className="text-3xl capitalize">step 1</h2>
+                <h2 className="text-3xl capitalize font-Karasu">
+                  Access Uniswap
+                </h2>
                 <BiPlus className="text-4xl" />
               </AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel className="mt-8">
               <p>
-                Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat
-                occaecat ut occaecat consequat est minim minim esse tempor
-                laborum consequat esse adipisicing eu reprehenderit enim.
+                Visit app.uniswap.org, the Uniswap decentralized exchange
+                website.
               </p>
             </AccordionItemPanel>
           </AccordionItem>
           <AccordionItem className=" bg-primary rounded-md ring ring-primary py-6 px-4">
             <AccordionItemHeading>
               <AccordionItemButton className="flex justify-between items-center">
-                <h2 className="text-3xl capitalize">step 2</h2>
+                <h2 className="text-3xl capitalize font-Karasu">
+                  Connect and search
+                </h2>
                 <BiPlus className="text-4xl" />
               </AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel className="mt-8">
               <p>
-                Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat
-                occaecat ut occaecat consequat est minim minim esse tempor
-                laborum consequat esse adipisicing eu reprehenderit enim.
+                Connect your wallet on Uniswap, then search for the MIJ token
+                using the contract address or symbol.
               </p>
             </AccordionItemPanel>
           </AccordionItem>
           <AccordionItem className=" bg-primary rounded-md ring ring-primary py-6 px-4">
             <AccordionItemHeading>
               <AccordionItemButton className="flex justify-between items-center">
-                <h2 className="text-3xl capitalize">step 3</h2>
+                <h2 className="text-3xl capitalize font-Karasu">
+                  Select and adjust
+                </h2>
                 <BiPlus className="text-4xl" />
               </AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel className="mt-8">
               <p>
-                Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat
-                occaecat ut occaecat consequat est minim minim esse tempor
-                laborum consequat esse adipisicing eu reprehenderit enim.
+                Choose the MIJ-ETH trading pair. Set the desired amount of ETH
+                or MIJ tokens and adjust transaction settings.
               </p>
             </AccordionItemPanel>
           </AccordionItem>
           <AccordionItem className=" bg-primary rounded-md ring ring-primary py-6 px-4">
             <AccordionItemHeading>
               <AccordionItemButton className="flex justify-between items-center">
-                <h2 className="text-3xl capitalize">step 4</h2>
+                <h2 className="text-3xl capitalize font-Karasu">
+                  Confirm and wait
+                </h2>
                 <BiPlus className="text-4xl" />
               </AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel className="mt-8">
               <p>
-                Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat
-                occaecat ut occaecat consequat est minim minim esse tempor
-                laborum consequat esse adipisicing eu reprehenderit enim.
+                Review the transaction details and confirm the purchase. Wait
+                for confirmation on the Ethereum network.
+              </p>
+            </AccordionItemPanel>
+          </AccordionItem>
+          <AccordionItem className=" bg-primary rounded-md ring ring-primary py-6 px-4">
+            <AccordionItemHeading>
+              <AccordionItemButton className="flex justify-between items-center">
+                <h2 className="text-3xl capitalize font-Karasu">
+                  Check your balance
+                </h2>
+                <BiPlus className="text-4xl" />
+              </AccordionItemButton>
+            </AccordionItemHeading>
+            <AccordionItemPanel className="mt-8">
+              <p>
+                Once the transaction is confirmed, your MIJ tokens will appear
+                in your wallet. You can now hold, trade, or engage with the Made
+                in Japan project.
               </p>
             </AccordionItemPanel>
           </AccordionItem>
