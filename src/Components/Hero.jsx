@@ -17,11 +17,7 @@ const Hero = () => {
         >
           buy made in japan
         </a>
-        <img
-          src={Logo}
-          alt="logo"
-          className="md:w-[15rem] object-cover animate-bounce"
-        />
+        <img src={Logo} alt="logo" className="md:w-[15rem] object-cover" />
       </div>
     </section>
   );
