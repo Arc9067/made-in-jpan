@@ -8,13 +8,13 @@ const Links = () => {
         <p>00000000000000000000000000000</p>
         <div className="mt-10 flex flex-col gap-6 md:flex-row">
           <a
-            href=""
+            href="https://t.me/japanerc"
             className="bg-black capitalize text-2xl rounded-md px-6 py-3"
           >
             telegram
           </a>
           <a
-            href=""
+            href="https://twitter.com/japanerc"
             className="bg-black capitalize text-2xl rounded-md px-6 py-3"
           >
             twitter

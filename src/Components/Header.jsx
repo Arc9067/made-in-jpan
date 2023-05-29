@@ -11,10 +11,10 @@ const Header = () => {
           made in japan
         </a>
         <div className="flex items-center gap-3">
-          <a href="" className="text-4xl">
+          <a href="https://t.me/japanerc" className="text-4xl">
             <RiTelegramLine />
           </a>
-          <a href="" className="text-4xl">
+          <a href="https://twitter.com/japanerc" className="text-4xl">
             <RiTwitterLine />
           </a>
           <a href="" className="text-4xl">
